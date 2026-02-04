@@ -9,6 +9,6 @@ Benefits:
 - Easier maintenance
 - Improved collaboration
 
-Team: [Your Name] & Joshua Kamunda
+Team: Chitundu Nakanyika & Joshua Kamunda
 Branch: feature-branch
 Date: February 4, 2026
