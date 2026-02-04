@@ -1,5 +1,13 @@
 Hello, Software Maintenance!
+This lab demonstrates version control mastery.
 Team Members: Chitundu Nakanyika & Joshua Kamunda
+Repository: week-1-git-lab
 Date: February 4, 2026
 
-Welcome to CSC 4631!
+Welcome to CSC 4631 - Software Maintenance & Evolution
+We're learning Git to manage code changes efficiently.
+
+Key Concepts:
+- Version control systems
+- Collaborative software development
+- Code review and maintenance workflows
